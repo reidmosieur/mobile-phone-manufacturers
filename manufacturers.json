@@ -1,0 +1,490 @@
+{
+    "acer": {
+      "longCode": "Acer",
+      "shortCode": "ACE"
+    },
+    "alcatel": {
+      "longCode": "Alcatel",
+      "shortCode": "ALC"
+    },
+    "allview": {
+      "longCode": "Allview",
+      "shortCode": "ALL"
+    },
+    "amazon": {
+      "longCode": "Amazon",
+      "shortCode": "AMA"
+    },
+    "amoi": {
+      "longCode": "Amoi",
+      "shortCode": "AMO"
+    },
+    "apple": {
+      "longCode": "Apple",
+      "shortCode": "APP"
+    },
+    "archos": {
+      "longCode": "Archos",
+      "shortCode": "ARC"
+    },
+    "asus": {
+      "longCode": "Asus",
+      "shortCode": "ASU"
+    },
+    "at&t": {
+      "longCode": "At&t",
+      "shortCode": "AT&"
+    },
+    "benefon": {
+      "longCode": "Benefon",
+      "shortCode": "BEN"
+    },
+    "benq": {
+      "longCode": "Benq",
+      "shortCode": "BEN1"
+    },
+    "benq-siemens": {
+      "longCode": "Benq-siemens",
+      "shortCode": "BEN2"
+    },
+    "bird": {
+      "longCode": "Bird",
+      "shortCode": "BIR"
+    },
+    "blackberry": {
+      "longCode": "Blackberry",
+      "shortCode": "BLA"
+    },
+    "blackview": {
+      "longCode": "Blackview",
+      "shortCode": "BLA1"
+    },
+    "blu": {
+      "longCode": "Blu",
+      "shortCode": "BLU"
+    },
+    "bosch": {
+      "longCode": "Bosch",
+      "shortCode": "BOS"
+    },
+    "bq": {
+      "longCode": "Bq",
+      "shortCode": "BQ"
+    },
+    "casio": {
+      "longCode": "Casio",
+      "shortCode": "CAS"
+    },
+    "cat": {
+      "longCode": "Cat",
+      "shortCode": "CAT"
+    },
+    "celkon": {
+      "longCode": "Celkon",
+      "shortCode": "CEL"
+    },
+    "chea": {
+      "longCode": "Chea",
+      "shortCode": "CHE"
+    },
+    "coolpad": {
+      "longCode": "Coolpad",
+      "shortCode": "COO"
+    },
+    "cubot": {
+      "longCode": "Cubot",
+      "shortCode": "CUB"
+    },
+    "dell": {
+      "longCode": "Dell",
+      "shortCode": "DEL"
+    },
+    "doogee": {
+      "longCode": "Doogee",
+      "shortCode": "DOO"
+    },
+    "emporia": {
+      "longCode": "Emporia",
+      "shortCode": "EMP"
+    },
+    "energizer": {
+      "longCode": "Energizer",
+      "shortCode": "ENE"
+    },
+    "ericsson": {
+      "longCode": "Ericsson",
+      "shortCode": "ERI"
+    },
+    "eten": {
+      "longCode": "Eten",
+      "shortCode": "ETE"
+    },
+    "fairphone": {
+      "longCode": "Fairphone",
+      "shortCode": "FAI"
+    },
+    "fujitsu siemens": {
+      "longCode": "Fujitsu siemens",
+      "shortCode": "FUJ"
+    },
+    "garmin-asus": {
+      "longCode": "Garmin-asus",
+      "shortCode": "GAR"
+    },
+    "gigabyte": {
+      "longCode": "Gigabyte",
+      "shortCode": "GIG"
+    },
+    "gionee": {
+      "longCode": "Gionee",
+      "shortCode": "GIO"
+    },
+    "google": {
+      "longCode": "Google",
+      "shortCode": "GOO"
+    },
+    "haier": {
+      "longCode": "Haier",
+      "shortCode": "HAI"
+    },
+    "honor": {
+      "longCode": "Honor",
+      "shortCode": "HON"
+    },
+    "hp": {
+      "longCode": "Hp",
+      "shortCode": "HP"
+    },
+    "htc": {
+      "longCode": "Htc",
+      "shortCode": "HTC"
+    },
+    "huawei": {
+      "longCode": "Huawei",
+      "shortCode": "HUA"
+    },
+    "i-mate": {
+      "longCode": "I-mate",
+      "shortCode": "IMA"
+    },
+    "i-mobile": {
+      "longCode": "I-mobile",
+      "shortCode": "IMO"
+    },
+    "icemobile": {
+      "longCode": "Icemobile",
+      "shortCode": "ICE"
+    },
+    "infinix": {
+      "longCode": "Infinix",
+      "shortCode": "INF"
+    },
+    "innostream": {
+      "longCode": "Innostream",
+      "shortCode": "INN"
+    },
+    "inq": {
+      "longCode": "Inq",
+      "shortCode": "INQ"
+    },
+    "intex": {
+      "longCode": "Intex",
+      "shortCode": "INT"
+    },
+    "itel": {
+      "longCode": "Itel",
+      "shortCode": "ITE"
+    },
+    "jolla": {
+      "longCode": "Jolla",
+      "shortCode": "JOL"
+    },
+    "karbonn": {
+      "longCode": "Karbonn",
+      "shortCode": "KAR"
+    },
+    "kyocera": {
+      "longCode": "Kyocera",
+      "shortCode": "KYO"
+    },
+    "lava": {
+      "longCode": "Lava",
+      "shortCode": "LAV"
+    },
+    "leeco": {
+      "longCode": "Leeco",
+      "shortCode": "LEE"
+    },
+    "lenovo": {
+      "longCode": "Lenovo",
+      "shortCode": "LEN"
+    },
+    "lg": {
+      "longCode": "Lg",
+      "shortCode": "LG"
+    },
+    "maxon": {
+      "longCode": "Maxon",
+      "shortCode": "MAX"
+    },
+    "maxwest": {
+      "longCode": "Maxwest",
+      "shortCode": "MAX1"
+    },
+    "meizu": {
+      "longCode": "Meizu",
+      "shortCode": "MEI"
+    },
+    "micromax": {
+      "longCode": "Micromax",
+      "shortCode": "MIC1"
+    },
+    "microsoft": {
+      "longCode": "Microsoft",
+      "shortCode": "MIC"
+    },
+    "mitac": {
+      "longCode": "Mitac",
+      "shortCode": "MIT"
+    },
+    "mitsubishi": {
+      "longCode": "Mitsubishi",
+      "shortCode": "MIT1"
+    },
+    "modu": {
+      "longCode": "Modu",
+      "shortCode": "MOD"
+    },
+    "motorola": {
+      "longCode": "Motorola",
+      "shortCode": "MOT"
+    },
+    "mwg": {
+      "longCode": "Mwg",
+      "shortCode": "MWG"
+    },
+    "nec": {
+      "longCode": "Nec",
+      "shortCode": "NEC"
+    },
+    "neonode": {
+      "longCode": "Neonode",
+      "shortCode": "NEO"
+    },
+    "niu": {
+      "longCode": "Niu",
+      "shortCode": "NIU"
+    },
+    "nokia": {
+      "longCode": "Nokia",
+      "shortCode": "NOK"
+    },
+    "nothing": {
+      "longCode": "Nothing",
+      "shortCode": "NOT"
+    },
+    "nvidia": {
+      "longCode": "Nvidia",
+      "shortCode": "NVI"
+    },
+    "o2": {
+      "longCode": "O2",
+      "shortCode": "O2"
+    },
+    "oneplus": {
+      "longCode": "Oneplus",
+      "shortCode": "ONE"
+    },
+    "oppo": {
+      "longCode": "Oppo",
+      "shortCode": "OPP"
+    },
+    "orange": {
+      "longCode": "Orange",
+      "shortCode": "ORA"
+    },
+    "oukitel": {
+      "longCode": "Oukitel",
+      "shortCode": "OUK"
+    },
+    "palm": {
+      "longCode": "Palm",
+      "shortCode": "PAL"
+    },
+    "panasonic": {
+      "longCode": "Panasonic",
+      "shortCode": "PAN"
+    },
+    "pantech": {
+      "longCode": "Pantech",
+      "shortCode": "PAN1"
+    },
+    "parla": {
+      "longCode": "Parla",
+      "shortCode": "PAR"
+    },
+    "philips": {
+      "longCode": "Philips",
+      "shortCode": "PHI"
+    },
+    "plum": {
+      "longCode": "Plum",
+      "shortCode": "PLU"
+    },
+    "posh": {
+      "longCode": "Posh",
+      "shortCode": "POS"
+    },
+    "prestigio": {
+      "longCode": "Prestigio",
+      "shortCode": "PRE"
+    },
+    "qmobile": {
+      "longCode": "Qmobile",
+      "shortCode": "QMO"
+    },
+    "qtek": {
+      "longCode": "Qtek",
+      "shortCode": "QTE"
+    },
+    "razer": {
+      "longCode": "Razer",
+      "shortCode": "RAZ"
+    },
+    "realme": {
+      "longCode": "Realme",
+      "shortCode": "REA"
+    },
+    "sagem": {
+      "longCode": "Sagem",
+      "shortCode": "SAG"
+    },
+    "samsung": {
+      "longCode": "Samsung",
+      "shortCode": "SAM"
+    },
+    "sendo": {
+      "longCode": "Sendo",
+      "shortCode": "SEN"
+    },
+    "sewon": {
+      "longCode": "Sewon",
+      "shortCode": "SEW"
+    },
+    "sharp": {
+      "longCode": "Sharp",
+      "shortCode": "SHA"
+    },
+    "siemens": {
+      "longCode": "Siemens",
+      "shortCode": "SIE"
+    },
+    "sonim": {
+      "longCode": "Sonim",
+      "shortCode": "SON"
+    },
+    "sony": {
+      "longCode": "Sony",
+      "shortCode": "SON1"
+    },
+    "sony ericsson": {
+      "longCode": "Sony ericsson",
+      "shortCode": "SON2"
+    },
+    "spice": {
+      "longCode": "Spice",
+      "shortCode": "SPI"
+    },
+    "t-mobile": {
+      "longCode": "T-mobile",
+      "shortCode": "TMO"
+    },
+    "tcl": {
+      "longCode": "Tcl",
+      "shortCode": "TCL"
+    },
+    "tecno": {
+      "longCode": "Tecno",
+      "shortCode": "TEC"
+    },
+    "tel.me.": {
+      "longCode": "Tel.me.",
+      "shortCode": "TEL"
+    },
+    "telit": {
+      "longCode": "Telit",
+      "shortCode": "TEL1"
+    },
+    "thuraya": {
+      "longCode": "Thuraya",
+      "shortCode": "THU"
+    },
+    "toshiba": {
+      "longCode": "Toshiba",
+      "shortCode": "TOS"
+    },
+    "ulefone": {
+      "longCode": "Ulefone",
+      "shortCode": "ULE"
+    },
+    "unnecto": {
+      "longCode": "Unnecto",
+      "shortCode": "UNN"
+    },
+    "vertu": {
+      "longCode": "Vertu",
+      "shortCode": "VER"
+    },
+    "verykool": {
+      "longCode": "Verykool",
+      "shortCode": "VER1"
+    },
+    "vivo": {
+      "longCode": "Vivo",
+      "shortCode": "VIV"
+    },
+    "vk mobile": {
+      "longCode": "Vk mobile",
+      "shortCode": "VK "
+    },
+    "vodafone": {
+      "longCode": "Vodafone",
+      "shortCode": "VOD"
+    },
+    "wiko": {
+      "longCode": "Wiko",
+      "shortCode": "WIK"
+    },
+    "wnd": {
+      "longCode": "Wnd",
+      "shortCode": "WND"
+    },
+    "xcute": {
+      "longCode": "Xcute",
+      "shortCode": "XCU"
+    },
+    "xiaomi": {
+      "longCode": "Xiaomi",
+      "shortCode": "XIA"
+    },
+    "xolo": {
+      "longCode": "Xolo",
+      "shortCode": "XOL"
+    },
+    "yezz": {
+      "longCode": "Yezz",
+      "shortCode": "YEZ"
+    },
+    "yota": {
+      "longCode": "Yota",
+      "shortCode": "YOT"
+    },
+    "yu": {
+      "longCode": "Yu",
+      "shortCode": "YU"
+    },
+    "zte": {
+      "longCode": "Zte",
+      "shortCode": "ZTE"
+    }
+  }
